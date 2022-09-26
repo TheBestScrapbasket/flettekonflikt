@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bff1b40-f413-428f-9e97-f61888d2f279" name="Changes" comment="Second Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8bff1b40-f413-428f-9e97-f61888d2f279" name="Changes" comment="“hej (konflikt)”" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664198566139</updated>
-      <workItem from="1664198567552" duration="1284000" />
+      <workItem from="1664198567552" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1664198706090</created>
@@ -66,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664199110556</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3rd commit Branch &quot;konflikt&quot; added">
+      <created>1664199950908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199950908</updated>
+    </task>
+    <task id="LOCAL-00006" summary="“hej (konflikt)”">
+      <created>1664200010938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664200010938</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +103,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="3rd commit Branch &quot;konflikt&quot; added" />
+    <MESSAGE value="“hej (konflikt)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“hej (konflikt)”" />
   </component>
 </project>
