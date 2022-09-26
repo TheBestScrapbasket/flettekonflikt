@@ -4,5 +4,6 @@ public class Main {
     }
     //test commit
     //test commit2
+    //hej fra konflikt
 
 }
